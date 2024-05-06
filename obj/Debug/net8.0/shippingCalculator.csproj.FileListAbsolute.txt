@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\bin\Debug\net8.0\shippingCalculator.exe
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\bin\Debug\net8.0\shippingCalculator.deps.json
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\bin\Debug\net8.0\shippingCalculator.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\bin\Debug\net8.0\shippingCalculator.dll
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\bin\Debug\net8.0\shippingCalculator.pdb
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\shippingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\shippingCalculator.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\shippingCalculator.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\shippingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\shippingCalculator.dll
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\refint\shippingCalculator.dll
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\shippingCalculator.pdb
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\shippingCalculator.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\dotNet\shippingCalculator\obj\Debug\net8.0\ref\shippingCalculator.dll
